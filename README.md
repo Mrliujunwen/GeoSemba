@@ -24,7 +24,7 @@ GeoSemba is a Mamba-based medical image segmentation framework that reformulates
 - **Cross-dimensional Affinity Refiner (CAR)**: Adopts a coarse-to-fine strategy of macro-perception and micro-focus to selectively enhance informative spatial-channel interactions while suppressing weak and noisy correlations
 
 <p align="center">
-  <img src="image/GeoSemba.png" width="90%">
+  <img src="assets/GeoSemba.png" width="90%">
 </p>
 
 
